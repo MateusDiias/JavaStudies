@@ -1,6 +1,6 @@
-package Application;
+package Basic.Application;
 
-import entities.Bank;
+import Basic.Application.entities.Bank;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package Application;
+package Basic.Application;
 
-import entities.CurrencyConverter;
+import Basic.Application.entities.CurrencyConverter;
 
 import java.util.Locale;
 import java.util.Scanner;

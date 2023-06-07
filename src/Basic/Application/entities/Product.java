@@ -1,5 +1,5 @@
 
-package entities;
+package Basic.Application.entities;
 
 public class Product {
     public String name;

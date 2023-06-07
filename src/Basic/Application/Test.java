@@ -1,6 +1,6 @@
-package Application;
+package Basic.Application;
 
-import entities.Product;
+import Basic.Application.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package entities;
+package Basic.Application.entities;
 
 public class Employee {
     private Integer id;

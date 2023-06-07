@@ -1,8 +1,8 @@
-package Application;
+package Basic.Application;
 
 import java.util.Locale;
 import java.util.Scanner;
-import entities.rectanglee;
+import Basic.Application.entities.rectanglee;
 
 public class MainRectangle {
     public static void main(String[] args) {

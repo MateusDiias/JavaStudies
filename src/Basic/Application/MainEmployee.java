@@ -1,7 +1,6 @@
-package Application;
+package Basic.Application;
 
-import entities.Employee;
-import entities.Pensionato;
+import Basic.Application.entities.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

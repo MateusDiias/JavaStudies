@@ -1,4 +1,4 @@
-package entities;
+package Basic.Application.entities;
 
 public class rectanglee {
     public double width;

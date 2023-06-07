@@ -1,11 +1,7 @@
-package Application;
+package Basic.Application;
 
-import entities.Employee;
-import entities.Pensionato;
+import Basic.Application.entities.Pensionato;
 
-import java.awt.geom.NoninvertibleTransformException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 /*A dona de um pensionato possui dez quartos para alugar para estudantes,

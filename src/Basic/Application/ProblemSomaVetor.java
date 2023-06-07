@@ -1,4 +1,4 @@
-package Application;
+package Basic.Application;
 
 import java.util.Locale;
 import java.util.Scanner;
