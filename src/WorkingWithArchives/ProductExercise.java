@@ -35,7 +35,7 @@ public class ProductExercise {
         this.quantity = quantity;
     }
 
-    public Double total() {
+    public double total() {
         return unityPrice * quantity;
     }
 
